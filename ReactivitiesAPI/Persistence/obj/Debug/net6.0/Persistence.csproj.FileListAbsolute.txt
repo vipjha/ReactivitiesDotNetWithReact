@@ -13,3 +13,5 @@ E:\FinleWorkToUploadOnGit\ReactivitiesDotNetWithReact\ReactivitiesAPI\Persistenc
 E:\FinleWorkToUploadOnGit\ReactivitiesDotNetWithReact\ReactivitiesAPI\Persistence\obj\Debug\net6.0\refint\Persistence.dll
 E:\FinleWorkToUploadOnGit\ReactivitiesDotNetWithReact\ReactivitiesAPI\Persistence\obj\Debug\net6.0\Persistence.pdb
 E:\FinleWorkToUploadOnGit\ReactivitiesDotNetWithReact\ReactivitiesAPI\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+E:\FinleWorkToUploadOnGit\ReactivitiesDotNetWithReact\ReactivitiesAPI\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+E:\FinleWorkToUploadOnGit\ReactivitiesDotNetWithReact\ReactivitiesAPI\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache

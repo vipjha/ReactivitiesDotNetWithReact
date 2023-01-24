@@ -10,3 +10,5 @@ E:\FinleWorkToUploadOnGit\ReactivitiesDotNetWithReact\ReactivitiesAPI\Domain\obj
 E:\FinleWorkToUploadOnGit\ReactivitiesDotNetWithReact\ReactivitiesAPI\Domain\obj\Debug\net6.0\refint\Domain.dll
 E:\FinleWorkToUploadOnGit\ReactivitiesDotNetWithReact\ReactivitiesAPI\Domain\obj\Debug\net6.0\Domain.pdb
 E:\FinleWorkToUploadOnGit\ReactivitiesDotNetWithReact\ReactivitiesAPI\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\FinleWorkToUploadOnGit\ReactivitiesDotNetWithReact\ReactivitiesAPI\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+E:\FinleWorkToUploadOnGit\ReactivitiesDotNetWithReact\ReactivitiesAPI\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
