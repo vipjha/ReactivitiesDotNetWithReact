@@ -42,7 +42,8 @@ namespace Application.Activites
                 {
                     _logger.LogInformation($"Task was cancelled");
                     //throw;
-                }*/
+                }
+*/
 
                 return await _context.Activities.ToListAsync(cancellationToken);
             }

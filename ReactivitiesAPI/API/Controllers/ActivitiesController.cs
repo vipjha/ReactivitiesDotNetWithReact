@@ -17,7 +17,8 @@ namespace API.Controllers
         {
             _mediator = mediator;
             //_context = context;
-        }*/
+        }
+        */
 
         [HttpGet]
         public async Task<ActionResult<List<Activity>>> GetActivities()
